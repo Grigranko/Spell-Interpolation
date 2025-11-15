@@ -3,3 +3,5 @@ plots.py
 *.png
 *.ai
 *.svg
+
+!plots/InterpolationExample_Annotated.png
